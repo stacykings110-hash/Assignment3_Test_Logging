@@ -1,0 +1,61 @@
+2026-10-27 12:43:04,605 | INFO | RUN START
+2026-10-27 12:43:05,044 | INFO | TC-01 PASS | ABOUT | 0.44s
+2026-10-27 12:43:48,058 | INFO | RUN START
+2026-10-27 12:43:48,469 | INFO | TC-01 PASS | ABOUT | 0.41s
+2026-10-27 12:43:58,140 | INFO | RUN START
+2026-10-27 12:43:58,538 | INFO | TC-01 PASS | ABOUT | 0.4s
+2026-10-27 12:51:33,048 | INFO | RUN START
+2026-10-27 12:51:38,437 | INFO | TC-01 PASS | ABOUT | 3.39s
+2026-10-27 12:51:41,829 | INFO | TC-02 PASS | SERVICES | 3.39s
+2026-10-27 13:03:31,718 | INFO | RUN START
+2026-10-27 13:03:37,164 | INFO | TC-01 PASS | ABOUT | 3.45s
+2026-10-27 13:03:40,604 | INFO | TC-02 PASS | SERVICES | 3.44s
+2026-10-27 13:03:44,444 | INFO | TC-03 PASS | PORTFOLIO | 3.84s
+2026-10-27 13:04:51,645 | INFO | RUN START
+2026-10-27 13:04:57,086 | INFO | TC-01 PASS | ABOUT | 3.44s
+2026-10-27 13:05:00,455 | INFO | TC-02 PASS | SERVICES | 3.37s
+2026-10-27 13:05:03,838 | INFO | TC-03 PASS | PORTFOLIO | 3.38s
+2026-10-27 13:05:06,940 | INFO | TC-04 PASS | PAGES | 3.1s
+2026-10-27 13:05:47,001 | INFO | RUN START
+2026-10-27 13:05:52,402 | INFO | TC-01 PASS | ABOUT | 3.4s
+2026-10-27 13:05:55,764 | INFO | TC-02 PASS | SERVICES | 3.36s
+2026-10-27 13:05:59,152 | INFO | TC-03 PASS | PORTFOLIO | 3.39s
+2026-10-27 13:06:02,284 | INFO | TC-04 PASS | PAGES | 3.13s
+2026-10-27 13:06:07,244 | INFO | TC-05 PASS | CONTACT | 4.96s
+2026-10-27 13:07:10,474 | INFO | RUN START
+2026-10-27 13:07:15,867 | INFO | TC-01 PASS | ABOUT | 3.39s
+2026-10-27 13:07:19,229 | INFO | TC-02 PASS | SERVICES | 3.36s
+2026-10-27 13:07:22,602 | INFO | TC-03 PASS | PORTFOLIO | 3.37s
+2026-10-27 13:07:25,711 | INFO | TC-04 PASS | PAGES | 3.11s
+2026-10-27 13:07:30,032 | INFO | TC-05 PASS | CONTACT | 4.32s
+2026-10-27 13:07:30,053 | ERROR | TC-06 FAIL | Negative Test | Message: no such element: Unable to locate element: {"method":"link text","selector":"DOES_NOT_EXIST"}
+  (Session info: chrome=156.0.8078.48); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff718893f45]
+	(No symbol) [0x7ff718794f90]
+	(No symbol) [0x7ff718612c53]
+	(No symbol) [0x7ff718e652d1]
+	(No symbol) [0x7ff718e6552c]
+	(No symbol) [0x7ff718e930e7]
+	(No symbol) [0x7ff7186425d1]
+	(No symbol) [0x7ff718627cb9]
+	(No symbol) [0x7ff718628ff3]
+	(No symbol) [0x7ff718d4e1a1]
+	(No symbol) [0x7ff718d7181b]
+	(No symbol) [0x7ff718d67ece]
+	(No symbol) [0x7ff7189bb10e]
+	(No symbol) [0x7ff7187a3db5]
+	(No symbol) [0x7ff71879e694]
+	(No symbol) [0x7ff71879e824]
+	(No symbol) [0x7ff718786bdc]
+	(No symbol) [0x7ffaccf453e0]
+	(No symbol) [0x7ffacdae485b]
+
+2026-10-27 13:12:43,073 | INFO | RUN START
+2026-10-27 13:12:48,593 | INFO | TC-01 PASS | ABOUT | 3.52s
+2026-10-27 13:12:52,057 | INFO | TC-02 PASS | SERVICES | 3.46s
+2026-10-27 13:12:55,450 | INFO | TC-03 PASS | PORTFOLIO | 3.39s
+2026-10-27 13:12:58,560 | INFO | TC-04 PASS | PAGES | 3.11s
+2026-10-27 13:13:03,767 | INFO | TC-05 PASS | CONTACT | 5.21s
+2026-10-27 13:13:03,799 | ERROR | TC-06 FAIL | Negative Test | Link not found
